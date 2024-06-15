@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width initial-scale=1.0">
+        <title>Document</title>
+  </head>
+  <body>
+    <script>
+        let mynumber = 10;
+        let myString = "Hello, Javascript!";
+        console.log( "myNumber:", myNumber);
+        console.log( "myString:", myString);
+
+        console.log( "number from 0 to 10:");
+       (leti = 0; <= 5; i++)  {
+            console.log(i);
+        }
+
+        console.log("First 5 multiples of 3:");
+         (let i = 1;  i <= 5; i++)  {
+            console.log(3 * i);
+        }
+
+        addNumbers(num1, num2)  {
+            num1+num2;
+        }
+
+        letsumResult = addNumbers(7,4);
+        console.log
+    </script>
+  </body>
+ </html>
